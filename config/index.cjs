@@ -13,7 +13,7 @@ const USER_CONFIG = {
   // 使用微信测试号：公众号APP_SECRET
   APP_SECRET: '00edf24322bc2aae38bce9b2cc8dedd6',
 
-  PROVINCE: '新疆维吾尔自治区',
+  PROVINCE: '新疆',
   CITY: '乌鲁木齐',
 
   USERS: [
@@ -21,9 +21,9 @@ const USER_CONFIG = {
       // 想要发送的人的名字
       name: '茜茜',
       // 使用微信测试号：扫码关注你的微信测试号后生成的一段字符串，在测试号后台能看到
-      id: 'oo0-f6eHUQ9nr2IlSrXU3kvysd-U',
+      id: 'oo0-f6Z_fRRMK_p2MH38G5ukK2nc',
       // 使用微信测试号：你想对他发送的模板消息的模板ID
-      useTemplateId: 'dREpsQUNqlOA4n9P4JUupi2UkAi2oDJehs-9kJ4x0LA',
+      useTemplateId: 'lOMHJu7iU7nzp9oxlwHrHEcYEeT4iCntYcJsm-Eis-E',
       // 新历生日, 仅用作获取星座运势, 格式必须为MM-DD
       horoscopeDate: '12-27',
       festivals: [
